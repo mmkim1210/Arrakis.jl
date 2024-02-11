@@ -79,6 +79,7 @@ The dice cannot read their own spots.
 Survival is the ability to swim in strange water.
 It is by will alone I set my mind in motion.
 Try looking into that place where you dare not look! You'll find me there, staring out at you!
+Expect only what happens in the fight. That way you'll never be surprised.
 People are the true strength of a Great House.
 Arrakis teaches the attitude of the knife - chopping off what's incomplete and saying: "Now, it's complete because it's ended here."
 What has mood to do with it? You fight when the necessity arises — no matter the mood! Mood's a thing for cattle or making love or playing the baliset. It's not for fighting.
@@ -128,7 +129,7 @@ It is not the present which unfluences the future, thou fool, but the future whi
 We sift people to find the humans.
 If wishes were fishes, we'd all cast nets.
 Seek freedom and become captive of your desires. Seek discipline and find your liberty.
-People, not commercial organizations or chains of command, are what make great civilizations work. Every civilization depends upon the quality of the individuals it produces.
+People, not commercial organizations or chains of command, are what make great civilizations work. Every civilization depends upon the quality of the individuals it produces. If you over-organize humans, over-legalize them, suppress their urge to greatness — they cannot work and their civilization collapses.
 If I am the flame, be the coal. If I am the dew, be the water.
 You see, gentlemen, they have something to die for. They've discovered they're a people. They're awakening.
 Many have marked the speed with which Muad'Dib learned the necessities of Arrakis. The Bene Gesserit, of course, know the basis of this speed. For the others, we can say that Muad'Dib learned rapidly because his first training was in how to learn. And the first lesson of all was the basic trust that he could learn. It is shocking to find how many people do not believe they can learn, and how many more believe learning to be difficult. Muad'Dib knew that every experience carries its lesson.
@@ -157,6 +158,7 @@ Command must always look confident. All that faith riding on your shoulders whil
 I must rule with eye and claw - as the hawk among lesser birds.
 Some things beggar likeness.
 From water does all life begin.
+He shall know your ways as if born to them.
 I never wanted to be a god. I wanted only to disappear like a jewel of trace dew caught by the morning. I wanted to escape the angels and the damned - alone... as though an oversight.
 The eye that looks ahead to the safe course is closed forever.
 Motivating people, forcing them to your will, gives you a cynical attitude towards humanity. It degrades everything it touches.
@@ -182,6 +184,7 @@ What is important for a leader is that which makes him a leader. It is the needs
 Polish comes from the cities; wisdom from the desert.
 My lungs taste the air of Time, blown past falling sands...
 One makes a choice between dangers.
+Is it defeatist or treacherous for a doctor to diagnose a disease correctly? My only intention is to cure the disease.
 To suspect your own mortality is to know the beginning of terror; to learn irrefutably that you are mortal is to know the end of terror.
 When God hath ordained a creature to die in a particular place, He causeth that creature's wants to direct him to that place.
 When he wanted, he could radiate charm and sincerity, but I often wonder in these later days if anything about him was as it seemed. I think now he was a man fighting constantly to escape the bars of an invisible cage.
@@ -193,6 +196,7 @@ The Guild Navigators, gifted with limited prescience, had made the fatal decisio
 Maud’Dib could indeed, see the Future, but you must understand the limits of this power. Think of sight. You have eyes, yet cannot see without light. If you are on the floor of a valley, you cannot see beyond the valley. Just so, Maud’Dib could not always choose to look across the mysterious terrain. He tells us that a single obscure decision of prophecy, perhaps the choice of one word over another, could change the entire aspect of the future. He tells us “The vision of time is broad, but when you pass through it, time becomes a narrow door.” And always, he fought the temptation to choose a clear, safe course, warning “That path leads ever down into stagnation."
 Science is made up of so many things that appear obvious after they are explained.
 I should've suspected trouble when the coffee failed to arrive.
+It occurred to Paul then that he had seen his own dead body along countless reaches of the time web, but never once had he seen his moment of death.
 Prophets have a way of dying by violence.
 Behold, as a wild ass in the desert, go I forth to my work.
 Desperate people are the most dangerous.
@@ -205,8 +209,9 @@ TO THE LADY JESSICA - May this place give you as much pleasure as it has given m
 The meeting between ignorance and knowledge, between brutality and culture - it begins in the dignity with which we treat the dead.
 We came from Caladan — a paradise world for our form of life. There existed no need on Caladan to build a physical paradise or a paradise of the mind — we could see the actuality all around us. And the price we paid was the price men have always paid for achieving a paradise in this life — we went soft, we lost our edge.
 What is the son but an extension of the father?
-The day the flesh shapes and the flesh the day shapes.
+One thought remained to him. Leto saw it in formless light on rays of black: The day the flesh shapes and the flesh the day shapes. The thought struck him with a sense of fullness he knew he could never explain.
 Each man is a little war.
+Cool your sorrow - we've the diversions for it; three things there are that ease the heart - water, green grass, and the beauty of woman.
 One peels a problem like an onion.
 What delicious abandon in the sleep of the child. When do we lose it?
 One does not risk everything to settle a score prematurely.
@@ -300,6 +305,7 @@ A plan depends as much upon execution as it does upon concept.
 Treachery within treachery within treachery.
 To save one from a mistake is a gift of paradise.
 Given the right lever, you can move a planet.
+The vision made him want to freeze into immobility, but this, too, was action with its consequences.
 The spice extends life. The spice expands consciousness. The spice is vital to space travel.
 Just as individuals are born, mature, breed, and die, so do societies and civilizations and governments.
 You’ve heard of animals chewing off a leg to escape a trap? There’s an animal kind of trick. A human would remain in the trap, endure the pain, feigning death that he might kill the trapper and remove the threat to his kind.
@@ -460,6 +466,9 @@ Heroic leaders often made mistakes... mistakes that were amplified by the number
 What mattered a single moon in such a universe?
 “Data,” Paul said. “I need more data.”
 You can’t stop a mental epidemic.
+Have you noticed, Stil, how beautiful the young women are this year?
+She felt that her body had walked into this place with her soul creeping behind.
+“Irreverence is a most necessary ingredient of religion,” Leto said. “Not to speak of its importance in philosophy. Irreverence is the only way left to us for testing our universe.”
 Never to forgive — never to forget.
 When your actions describe a system of evil consequences, you should be judged by those consequences and not by your explanations. It is thus we should judge Muad'Dib.
 Forget mystery and accept love. There's no mystery about love. It comes from life.
@@ -477,8 +486,10 @@ When I need to identify rebels, I look for men with principles.
 Never attempt to reason with people who know they are right.
 When a wise man does not understand, he says: "I do not understand." The fool and the uncultured are ashamed of their ignorance. They remain silent when a question could bring them wisdom.
 Parting with friends is a sadness. A place is only a place.
+Yes, the one who can be many places at once: the Kwisatz Haderach. Many men have tried the drug... so many, but none has succeeded.
 “Principles,” he said, “are what you fight for. Most men go through a lifetime unchallenged, except at the final moment. They have so few unfriendly arenas in which to test themselves.”
 Most deadly errors arise from obsolete assumptions.
+To attempt an understanding of Muad'Dib without understanding his mortal enemies, the Harkonnens, is to attempt seeing Truth without knowing Falsehood. It is the attempt to see the Light without knowing Darkness. It cannot be.
 Guilt starts as a feeling of failure.
 People don't vote. Instinct tells them it's useless.
 Ready comprehension is often a knee-jerk response and the most dangerous form of understanding. It blinks an opaque screen over your ability to learn. Be warned. Understand nothing. All comprehension is temporary.
@@ -535,6 +546,7 @@ Power bases are very dangerous because they attract people who are truly insane,
 You don’t see much of any path unless you are Janus, looking simultaneously backward and forward.
 Radicals always see matters in terms which are too simple—black and white, good and evil, them and us. By addressing complex matters in that way, they rip open a passage for chaos. The art of government as you call it, is the mastery of chaos.
 Religion suppresses curiosity.
+In the week before their departure to Arrakis, when all the final scurrying about had reached a nearly unbearable frenzy, an old crone came to visit the mother of the boy, Paul. It was a warm night at Castle Caladan, and the ancient pile of stone that had served the Atreides family as home for twenty-six generations bore that cooled-sweat feeling it acquired before a change in the weather.
 Duncan, have I not told you that when you think you know something, that is a most perfect barrier against learning?
 Most humans are not strong enough to find freedom within.
 “There is the difference between us,” he said. “You are God embodied. You walk around within the greatest miracle of this universe, yet you refuse to touch or see or feel or believe in it.”
@@ -547,6 +559,8 @@ It is another kind of marriage — the marriage of privilege and duty. It is the
 Religion began as a female monopoly, wrested from them only after its social power became too dominant. Women were the first medical researchers and practitioners. There has never been any clear balance between the sexes because power goes with certain roles as it certainly goes with knowledge.
 You always know the creative because it is revealed openly. Concealment betrays the existence of another force entirely.
 But the tripod upon which Eternity swings is composed of flesh and thought and emotion.
+In politics, the tripod is the most unstable of all structures.
+You well know the weakness there! Shield your son too much, Jessica, and he'll not grow strong enough to fulfill any destiny.
 Laws tend to be temporary over the long haul, Moneo. There is no such thing as rule-governed creativity.
 “I began with love and prayer,” Moneo said. “I changed to anger and rebellion. I was transformed into what you see before you. I recognize my duty and I do it.”
 “A bad administrator is more concerned with reports than with decisions. He wants the hard record which he can display as an excuse for his errors.” “And good administrators?” “Oh, they depend on verbal orders. They never lie about what they’ve done if their verbal orders cause problems, and they surround themselves with people able to act wisely on the basis of verbal orders. Often, the most important piece of information is that something has gone wrong. Bad administrators hide their mistakes until it’s too late to make corrections.” Leto watched her as she thought about the people who served him — especially about Moneo. “Men of decision,” she said.”
@@ -586,3 +600,41 @@ He hates his God Emperor! No... he fears him. But don’t we always hate what we
 “Perverts don’t perpetuate!”
 The young generally are incapable of making hard decisions unless those decisions are associated with immediate violence and the consequent sharp flow of adrenalin.
 The cradle of genesis ultimately predisposes them to behavior more protective of life.
+You aren't thinking or really existing unless you're willing to risk even your own sanity in the judgement of your existence.
+If all those around you believe some particular thing, you will soon be tempted to share in that belief.
+I'm going to rub your faces in things you try to avoid. I don't find it strange that all you want to believe is only that which comforts you. How else do humans invent the traps which betray us into mediocrity? How else do we define cowardice?
+If I always behave with propriety, no matter what it costs me to suppress my own desires, then that is the measure of me. Such is the essence of self-control.
+The joy of living, its beauty is all bound up in the fact that life can surprise you.
+They were such seriously futile people that she found herself wanting to cry out against their ready-made justifications for pointless lives.
+Peace demands solutions, but we never reach living solutions; we only work toward them. A fixed solution is, by definition, a dead solution. The trouble with peace is that it tends to punish mistakes instead of rewarding brilliance.
+Things could not be forever ordered and formulated. He had to find the rhythm of change and see between the changes to the changing itself.
+The past may show the right way to behave if you live in the past, Stil, but circumstances change.
+I realize that humans cannot bear very much reality. Most lives are a flight from selfhood. Most prefer the truths of the stable. You stick your heads into the stanchions and munch contentedly until you die. Others use you for their purposes. Not once do you live outside the stable to lift your head and be your own creature. Muad'Dib came to tell you about that. Without understanding his message, you cannot revere him!
+The assumption that humans exist within an essentially impermanent universe, taken as an operational precept, demands that the intellect become a totally aware balancing instrument.
+They who learn the lesson of self-deception too well shall perish by that deception.
+This moment here is the only observable time and place for us in our universe.
+To stay awake all night adds a day to your life.
+Government and religion united, and breaking a law became sin. A smell of blasphemy arose like smoke around any questioning of governmental edicts.
+Every question, every problem doesn't have a single correct answer. One must permit diversity. A monolith is unstable.
+To be sighted in the land of the blind carries its own perils.
+Ignorance has its advantages. A universe of surprises is what I pray for!
+In shield fighting, one moves fast on defense, slow on attack. Attack has the sole purpose of tricking the opponent into a misstep, setting him up for the attack sinister. The shield turns the fast blow, admits the slow kindjal!
+All the special training from Hawat and his mother — the mnemonics, the focusing of awareness, the muscle control and sharpening of sensitivities, the study of languages and nuances of voices — all of it clicked into a new kind of understanding in his mind.
+May thy knife chip and shatter.
+Anger is one thing, violence another.
+She focused on the psychokinesthetic extension of herself, looking within, and was confronted immediately with a cellular core, a pit of blackness from which she recoiled. That is the place where we cannot look, she thought. There is the place the Reverend Mothers are so reluctant to mention — the place where only a Kwisatz Haderach may look.
+Things persisted in not being what they seemed.
+You cannot back into the future.
+Stilgar squared his shoulders, stepped closer to Paul and lowered his voice. "Now, remember what I told you. Do it simply and directly — nothing fancy... You don't have to impress anyone with your courage. We know you are brave. All you must do is call the maker and ride him."
+"Control the coinage and the courts — let the rabble have the rest." Thus the Padishah Emperor advises you. And he tells you; "If you want profits, you must rule." There is truth in these words, but I ask myself: "Who are the rabble and who are the ruled?"
+You cannot avoid the interplay of politics within an orthodox religion. This power struggle permeates the training, educating and disciplining of the orthodox community. Because of this pressure, the leaders of such a community inevitably must face that ultimate internal question: to succumb to complete opportunism as the price of maintaining their rule, or risk sacrificing themselves for the sake of the orthodox ethic.
+One of the most terrible moments in a boy's life... is when he discovers his father and mother are human beings who share a love that he can never quite taste. It's a loss, an awakening to the fact that the world is there and here and we are in it alone. The moment carries its own truth; you can't evade it.
+He was warrior and mystic, ogre and saint, the fox and the innocent, chivalrous, ruthless, less than a god, more than a man. There is no measuring Muad'Dib's motives by ordinary standards. In the moment of his triumph, he saw the death prepared for him, yet he accepted the treachery. Can you say he did this out of a sense of justice? Whose justice, then? Remember, we speak now of the Muad'Dib who ordered battle drums made from his enemies' skins, the Muad'Dib who denied the conventions of his ducal past with a wave of the hand, saying merely: "I am the Kwisatz Haderach. That is reason enough."
+Failure to make a decision was in itself a decision.
+It is said of Muad’Dib that once when he saw a weed trying to grow between two rocks, he moved one of the rocks. Later, when the weed was seen to be flourishing, he covered it with the remaining rock. “That was its fate,” he explained.
+Governments may rise and fall for reasons which appear insignificant, Prince. What small events! An argument between two women... which way the wind blows on a certain day... a sneeze, a cough, the length of a garment or the chance collision of a fleck of sand and a courtier’s eye. It is not always the majestic concerns of Imperial ministers which dictate the course of history, nor is it necessarily the pontifications of priests which move the hands of God.
+He mastered the inner world while holding the outer in contempt, and this led to catastrophe.
+Better the complexities one thought he knew than the complexities which defied understanding.
+This is the perspective which you create with your own belief, and beliefs can be manipulated by imagination. You’ve learned only a limited way of looking at the universe. Now you must make the universe your own creation.
+There’s no such thing as equal justice anywhere. It’s unsettling to a society when you try to achieve such a false balance.
+Natural selection has been described as an environment selectively screening for those who will have progeny. Where humans are concerned, though, this is an extremely limiting viewpoint. Reproduction by sex tends toward experiment and innovation. It raises many questions, including the ancient one about whether environment is a selective agent after the variation occurs, or whether environment plays a pre-selective role in determining the variations which it screens. Dune did not really answer those questions: it merely raised new questions which Leto and the Sisterhood may attempt to answer over the next five hundred generations.
