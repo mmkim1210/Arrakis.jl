@@ -13,8 +13,8 @@ Prints a quote from Frank Herbert's Dune chronicles. If no `i` is given, then pr
 # Examples
 
 ```julia
-julia> dune(3)
-What do you despise? By this are you truly known. ::: Frank Herbert
+julia> dune(16)
+Silence is often the best thing to say. ::: Frank Herbert
 
 julia> using Random; Random.seed!(137); dune()
 A powerful enemy is better to have than a tame friend. ::: Frank Herbert
