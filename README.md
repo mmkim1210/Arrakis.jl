@@ -36,4 +36,4 @@ When we think we know something, that's precisely the moment when we should look
 ```
 
 ## References
-This package was partly inspired by [GaussFacts.jl](https://github.com/eliascarv/GaussFacts.jl). Various quotes from the Dune chronicles (i.e. *Dune*, *Dune Messiah*, *Children of Dune*, *God Emperor of Dune*, *Heretics of Dune*, and *Chapterhouse: Dune*) by [Frank Herbert](https://youtu.be/A-mLVVJkH7I?si=5gOZtGsgGZmtePyX) were manually compiled.
+This package was partly inspired by [GaussFacts.jl](https://github.com/eliascarv/GaussFacts.jl). Various lines from the Dune chronicles (i.e. *Dune*, *Dune Messiah*, *Children of Dune*, *God Emperor of Dune*, *Heretics of Dune*, and *Chapterhouse: Dune*) by [Frank Herbert](https://youtu.be/A-mLVVJkH7I?si=5gOZtGsgGZmtePyX) were manually compiled.
