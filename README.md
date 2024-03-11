@@ -1,6 +1,6 @@
 # Dune
 
-> There was no room in my mind for concerns about the book’s success or failure. I was concerned only with the writing. Six years of research had preceded the day I sat down to put the story together, and the interweaving of the many plot layers I had planned required a degree of concentration I had never before experiences.  
+> There was no room in my mind for concerns about the book’s success or failure. I was concerned only with the writing. Six years of research had preceded the day I sat down to put the story together, and the interweaving of the many plot layers I had planned required a degree of concentration I had never before experienced.  
 > It was to be a story exploring the myth of the Messiah.  
 > It was to produce another view of a human-occupied planet as an energy machine.  
 > It was to penetrate the interlocked workings of politics and economics.  
