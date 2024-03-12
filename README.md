@@ -1,4 +1,4 @@
-# Dune
+# Arrakis
 
 > There was no room in my mind for concerns about the book’s success or failure. I was concerned only with the writing. Six years of research had preceded the day I sat down to put the story together, and the interweaving of the many plot layers I had planned required a degree of concentration I had never before experienced.  
 > It was to be a story exploring the myth of the Messiah.  
@@ -21,12 +21,12 @@
 
 ```julia
 julia> ]
-(@v1.10) pkg> add https://github.com/mmkim1210/Dune.jl.git
+(@v1.10) pkg> add Arrakis
 ```
 ## Examples
 
 ```julia
-julia> using Dune
+julia> using Arrakis
 
 julia> dune(467)
 “Data,” Paul said. “I need more data.” ::: Frank Herbert

@@ -1,4 +1,4 @@
-module Dune
+module Arrakis
 
 export dune
 
