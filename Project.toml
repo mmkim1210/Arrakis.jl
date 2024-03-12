@@ -1,7 +1,7 @@
 name = "Dune"
 uuid = "99f135e2-88c3-40ff-a1e2-47fd2cf0000f"
 authors = ["Minsoo Kim"]
-version = "1.0.0-DEV"
+version = "0.1.0"
 
 [compat]
 julia = "1"
