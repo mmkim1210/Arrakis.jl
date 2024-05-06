@@ -23,7 +23,7 @@
 
 ```julia
 julia> ]
-(@v1.10) pkg> add Arrakis
+(@v1.10) pkg> add https://github.com/mmkim1210/Arrakis.jl.git
 ```
 ## Examples
 
