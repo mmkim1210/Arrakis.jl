@@ -17,7 +17,7 @@
 > It surprises me. I didn’t expect failure either. It was a work and I did it. Parts of Dune Messiah and Children of Dune were written before Dune was completed. They fleshed out more in the writing, but the essential story remained intact. I was a writer and I was writing. The success meant I could spend more time writing.  
 > Looking back on it, I realize I did the right thing instinctively. You don't write for success. That takes part of your attention away from the writing. If you’re really doing it, that’s all you’re doing: writing. There’s an unwritten compact between you and the reader. If someone enters a bookstore and sets down hard earned money (energy) for your book, you owe that person some entertainment and as much more as you can give. That was really my intention all along.
 
-[**A letter to his readers by Frank Herbert – How he wrote dune and his intentions behind it**](https://fgiasson.com/blog/index.php/2005/03/01/a_letter_to_his_readers_by_frank_herbert/)
+[**A letter to his readers by Frank Herbert - How he wrote dune and his intentions behind it**](https://fgiasson.com/blog/index.php/2005/03/01/a_letter_to_his_readers_by_frank_herbert/)
 
 ## Installation
 
@@ -38,4 +38,4 @@ Freedom is a lonely state. ::: Frank Herbert
 ```
 
 ## References
-This package was partly inspired by [GaussFacts.jl](https://github.com/eliascarv/GaussFacts.jl). Various lines from the Dune chronicles (i.e. *Dune*, *Dune Messiah*, *Children of Dune*, *God Emperor of Dune*, *Heretics of Dune*, and *Chapterhouse: Dune*) by [Frank Herbert](https://youtu.be/A-mLVVJkH7I?si=5gOZtGsgGZmtePyX) were manually compiled.
+This package was partly inspired by [GaussFacts.jl](https://github.com/eliascarv/GaussFacts.jl). Various lines from the Dune chronicles (i.e. [<u>Dune</u>](https://en.wikipedia.org/wiki/Dune_(novel)), [<u>Dune Messiah</u>](https://en.wikipedia.org/wiki/Dune_Messiah), [<u>Children of Dune</u>,](https://en.wikipedia.org/wiki/Children_of_Dune) [<u>God Emperor of Dune</u>](https://en.wikipedia.org/wiki/God_Emperor_of_Dune), [<u>Heretics of Dune</u>](https://en.wikipedia.org/wiki/Heretics_of_Dune), and [<u>Chapterhouse: Dune</u>](https://en.wikipedia.org/wiki/Chapterhouse:_Dune)) by [Frank Herbert](https://youtu.be/A-mLVVJkH7I?si=5gOZtGsgGZmtePyX) were manually compiled.
