@@ -17,7 +17,7 @@ julia> dune(16)
 Silence is often the best thing to say. ::: Frank Herbert
 
 julia> using Random; Random.seed!(137); dune()
-A powerful enemy is better to have than a tame friend. ::: Frank Herbert
+Some things do not change very much. They are merely taken from one place and reformed in another place. ::: Frank Herbert
 ```
 """
 function dune(i::Int = rand(1:nquotes))
